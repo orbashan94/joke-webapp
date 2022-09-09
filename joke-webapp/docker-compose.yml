@@ -1,0 +1,4 @@
+webapp:
+  image: orbashan/joke-webapp
+  ports:
+    - 8080:5000
